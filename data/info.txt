@@ -1,0 +1,2 @@
+Paste all data from https://opendata.edp.com/explore/?sort=modified&refine.keyword=Wind+Farm+1&refine.keyword=80
+into train and test directories.
