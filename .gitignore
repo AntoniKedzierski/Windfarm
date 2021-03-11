@@ -129,6 +129,11 @@ dmypy.json
 .pyre/
 
 # === Own .gitignore instructions ===
+# PyCharm directories
+.idea
+.idea/
+/.idea
+
 # Data:
 /data/train
 /data/test
